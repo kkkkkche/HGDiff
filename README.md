@@ -1,6 +1,6 @@
 # MGDiff
 
-Run train.py to train MGDiff
+Run train.py to train HGDiff
 
 
 Run sample.py to sample
